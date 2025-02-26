@@ -10,3 +10,10 @@ next, make mlib element. like that:
   </mlib>
   ```
 and just run that.
+# Must Read
+something different between MLib And XpLevel. like ifit in mlib:
+```
+@ifit_mlib"example" == "example"?>onmake
+  @InDisplay.show(StrManager.InPut("hi")
+>onend
+```
