@@ -14,6 +14,6 @@ and just run that.
 something different between MLib And XpLevel. like ifit in mlib:
 ```
 @ifit_mlib"example" == "example"?>onmake
-  @InDisplay.show(StrManager.InPut("hi")
+  @InDisplay.show(StrManager.InPut("hi"))
 >onend
 ```
